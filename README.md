@@ -16,7 +16,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -31,7 +31,7 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -49,14 +49,41 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
 
+
+# My Projects
+I have developed many of the projects some of them are live and hosted.
+
+## Projects using javascript
+
+### Password Generator
+[![HD5LBHP.png](https://iili.io/HD5LBHP.png)](https://freeimage.host/)
+### Music Player
+[![HD5syNe.png](https://iili.io/HD5syNe.png)](https://freeimage.host/)
+### Calculator
+[![HD5L9Du.png](https://iili.io/HD5L9Du.png)](https://freeimage.host/)
+### Dictionary
+[![HD5LdVj.png](https://iili.io/HD5LdVj.png)](https://freeimage.host/)
+
+## Projects using React
+
+### Portfolio
+[![HD5spR9.png](https://iili.io/HD5spR9.png)](https://freeimage.host/)
+### To do List
+[![HD5LFKQ.png](https://iili.io/HD5LFKQ.png)](https://freeimage.host/)
+### Quiz app
+[![HD5smH7.png](https://iili.io/HD5smH7.png)](https://freeimage.host/)
+### To do Master
+[![HD5LfUB.png](https://iili.io/HD5LfUB.png)](https://freeimage.host/)
+### Youtube Clone Application
+[![HD5LJob.png](https://iili.io/HD5LJob.png)](https://freeimage.host/)
+
+## Projects using Html CSS 
+### Portfolio
+[![HD5LKlV.png](https://iili.io/HD5LKlV.png)](https://freeimage.host/)
 
 ## Connect with me  
 <div align="center">
